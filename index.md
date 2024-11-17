@@ -1,4 +1,5 @@
 Samantha Lin yul186@ucsd.edu
+
 Section B01 GenAI for Good - Dr. Arsanjani
 
 **The most interesting topic was about how we are combining Predicitve AI and Gen AI to detect misinformation.**
